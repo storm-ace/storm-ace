@@ -1,8 +1,8 @@
 ### Hi there, I'm Wesley - aka [Coding Caderikor] 🙋
 
 ## I'm a Game developer, Youtuber
-- 💻 Working fulltime on a horror game using [Unity]!
-- 📖 I'm also self taught so that means I still learn a lot
+- 💻 Working fulltime on a FPS game using [Unreal]!
+- 📖 I'm also self taught in java, JS, C#, Databases suchs as mongoDB
 
 ### Connect with me:
 
