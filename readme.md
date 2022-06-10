@@ -2,7 +2,7 @@
 
 ## I'm a Game developer, Youtuber
 - 💻 Working fulltime on a FPS game using [Unreal]!
-- 📖 I'm also self taught in java, JS, C#, Databases suchs as mongoDB
+- 📖 I'm also self taught in JS, React, C#, Front-develoment
 
 ### Connect with me:
 
