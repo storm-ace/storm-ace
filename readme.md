@@ -20,4 +20,5 @@ I speak multiple languages: Dutch, English, Japanese, Thais
 <br />
 
 💬[Discord]: https://discord.gg/MjMJTfRxnE
+<br />
 📺[Youtube]: https://www.youtube.com/channel/UCfKKueuKEDrdJqRBurbfDXQ
