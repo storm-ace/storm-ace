@@ -13,5 +13,5 @@ I speak multiple languages: Dutch, English, Japanese, Thais
 
 ### Connect with me:
 
-[<img align="left" src="https://yt3.ggpht.com/ytc/AAUvwngytTGNxTh-n4C6TLomue6cb2bYni4XMnzG1m0mOA=s900-c-k-c0x00ffffff-no-rj" width="50px" alt="https://discord.gg/MjMJTfRxnE"/>][Discord]
-[<img align="left" src="https://www.youtube.com/img/desktop/yt_1200.png" width="50px" alt="https://www.youtube.com/channel/UCfKKueuKEDrdJqRBurbfDXQ"/>][Youtube]
+[<img src="https://yt3.ggpht.com/ytc/AAUvwngytTGNxTh-n4C6TLomue6cb2bYni4XMnzG1m0mOA=s900-c-k-c0x00ffffff-no-rj" width="50px"/>](https://discord.gg/MjMJTfRxnE)
+[<img src="https://www.youtube.com/img/desktop/yt_1200.png" width="50px"/>](https://www.youtube.com/@codingcaderikor)
