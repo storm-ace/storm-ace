@@ -15,3 +15,6 @@ I speak multiple languages: Dutch, English, Japanese, Thais
 
 [<img src="https://yt3.ggpht.com/ytc/AAUvwngytTGNxTh-n4C6TLomue6cb2bYni4XMnzG1m0mOA=s900-c-k-c0x00ffffff-no-rj" width="50px"/>](https://discord.gg/MjMJTfRxnE)
 [<img src="https://www.youtube.com/img/desktop/yt_1200.png" width="50px"/>](https://www.youtube.com/@codingcaderikor)
+
+### Certification ###
+[<img src="https://global-uploads.webflow.com/5ee34869dd28cd4237e2a5f2/5f58fea7e8de69c05d92390e_cropped-logo%20liggend.png" width="200px"/>](https://www.youtube.com/@codingcaderikor)
