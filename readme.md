@@ -17,4 +17,4 @@ I speak multiple languages: Dutch, English, Japanese, Thais
 [<img src="https://www.youtube.com/img/desktop/yt_1200.png" width="50px"/>](https://www.youtube.com/@codingcaderikor)
 
 ### Certification ###
-[<img src="https://global-uploads.webflow.com/5ee34869dd28cd4237e2a5f2/5f58fea7e8de69c05d92390e_cropped-logo%20liggend.png" width="200px"/>](https://www.youtube.com/@codingcaderikor)
+[<img src="https://global-uploads.webflow.com/5ee34869dd28cd4237e2a5f2/5f58fea7e8de69c05d92390e_cropped-logo%20liggend.png" width="200px"/>](https://www.wincacademy.nl/)
