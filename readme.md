@@ -1,15 +1,15 @@
 ### Hi there, I'm Wesley - aka [Coding Caderikor] 🙋
 
 ## I'm a Game developer, Youtuber
-- 💻 Working fulltime on a FPS game using [Unreal]!
-- 📖 I'm also self taught in JS, React, C#, Front-develoment
-- 🏠👨‍💻 I am a freelancer doing both Unreal engine and unity aswell as Web develoment contact me if you wanna learn more!
+- 💻 Working part-time as freelancer on Fiverr https://nl.fiverr.com/users/caderikor
+- 📖 I'm also self-taught in JS, React, C#, Front-development
+- 🏠👨‍💻 I am a freelancer doing both Unreal engine and unity as well as Web development contact me if you want to learn more!
 
 ## About me
 
 I am a passionate gamer and game developer with a love of quality and good design patterns. Huge fan of realistic combat and slow pace shooters where massive multiplayer teamwork is required to make things work!
 I love to do airsoft snowboarding and travel to see new cultures.
-I speak multiple languages: Dutch, English, Japanese, Thais
+I speak multiple languages: Dutch, English, Thais
 
 ### Connect with me:
 
